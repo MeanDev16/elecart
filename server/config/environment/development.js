@@ -5,7 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://<user1>:<user1>@ds153845.mlab.com:53845/heroku_wn6prhj7' || 'mongodb://localhost/shopnx-dev'
+    uri: 'mongodb://user1:user1@ds153845.mlab.com:53845/heroku_wn6prhj7' || 'mongodb://localhost/shopnx-dev'
   },
 
   seedDB: true
