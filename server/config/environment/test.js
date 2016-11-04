@@ -5,6 +5,6 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://user1:user1@ds153845.mlab.com:53845/heroku_wn6prhj7' || 'mongodb://localhost/angularfullstack-test'
+    uri: 'mongodb://user1:user1@ds143737.mlab.com:43737/heroku_6pmmkn6c' || 'mongodb://localhost/angularfullstack-test'
   }
 };
