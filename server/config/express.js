@@ -45,7 +45,11 @@ module.exports = function(app) {
   }));
   
   if ('production' === env) {
+<<<<<<< HEAD
    // app.use(favicon(path.join(config.root, 'public', 'favicon.ico')));
+=======
+    //app.use(favicon(path.join(config.root, 'public', 'favicon.ico')));
+>>>>>>> 3b7d3557f4d0e8b542763917d688b293c793344c
     app.use(express.static(path.join(config.root, 'dist/public')));
     app.set('appPath', path.join(config.root, 'dist/public'));
     app.use(morgan('dev'));

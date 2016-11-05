@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopNX - Shopping Cart with AngularJS (eCommerce web application)
 A single page Shopping Cart web applications with many necessary features of an ecommerce application.
 
@@ -39,6 +40,10 @@ The following are basic commands which will generate the required code for your 
 2.    AngularJS filters are placed inside client/app/filters
 3.    Application authentication routes are under client/app/account
 
+=======
+
+
+>>>>>>> 3b7d3557f4d0e8b542763917d688b293c793344c
 
 # Features
 ### Store Front features
@@ -64,5 +69,8 @@ The following are basic commands which will generate the required code for your 
 *  Secure and quality code - Takes care all single page web app standards
 *  Securely built and prevent security attacks
 
+<<<<<<< HEAD
 ### Future Plan
 * Plan to add OAUTH login with facebook, gmail, twitter
+=======
+>>>>>>> 3b7d3557f4d0e8b542763917d688b293c793344c
